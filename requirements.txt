@@ -1,0 +1,8 @@
+python-telegram-bot==13.5
+yt-dlp==2025.01.15
+requests
+psycopg2
+pyTelegramBotAPI
+python-dotenv
+Flask==2.2.5
+gunicorn==22.0.0
